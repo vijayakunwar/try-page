@@ -1,3 +1,4 @@
+/*for mobile version*/
 /*low resolution, 480px and below */
 @media only screen and (max-width: 480px) { 
 
@@ -30,7 +31,7 @@ footer nav { margin-bottom: 0; }
 }
 
 
-
+/* for tablet version */
 /*medium resoultion, 481px to 1023px */
 @media only screen and (min-width: 481px) { 
 
@@ -63,7 +64,7 @@ footer nav { margin-bottom: 0; }
 }
 
 
-
+/* for desktop version */
 /*high resolution, 1024px and above */
 @media only screen and (min-width: 1024px) { 
 
