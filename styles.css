@@ -16,9 +16,14 @@ nav { background: rgb(0,0,0); padding: 10px; margin-bottom: 20px; text-align: ce
 
 #slideshow { display: none; }
 
-.contentbox { background: rgb(0,80,125); padding: 10px; margin-bottom: 10px; text-align: center; margin-top: 20px; }
-	.contentbox img { margin-top: -20px; }
-	.contentbox p { color: rgb(255,255,255); font-size: 100%; line-height: 180%; text-align: left; }
+.contentbox { 
+	background: rgb(0,80,125); 
+	padding: 10px; 
+	margin-bottom: 10px; 
+	text-align: center; 
+	margin-top: 20px; }
+.contentbox img { margin-top: -20px; }
+.contentbox p { color: rgb(255,255,255); font-size: 100%; line-height: 180%; text-align: left; }
 	
 article { width: 95%; margin-left: 10px; }
 	.news { margin-bottom: 20px; }
